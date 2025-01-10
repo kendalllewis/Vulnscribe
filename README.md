@@ -29,6 +29,12 @@ With VulnScribe, you spend less time writing and more time delivering impactful 
 
 Getting Started:
 
+Installation...
+
+Running the Report Generator:
+![image](https://github.com/user-attachments/assets/9a9e14bc-846f-4a0d-a46d-e2f06f33e21a)
+
+
 ...to come when ready
 
 Contributions Welcome:
