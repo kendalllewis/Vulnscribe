@@ -35,9 +35,11 @@ Running the Report Generator:
 ![image](https://github.com/user-attachments/assets/9a9e14bc-846f-4a0d-a46d-e2f06f33e21a)
 
 Once you go through the effort of plugging in engagement details and selected vulnerabilities, the MS Word template is leveraged to replace placeholders and create the deliverable:
+
 ![image](https://github.com/user-attachments/assets/64140eea-3ed6-4218-ae2f-9bd0b16e23a8)
 
 We will continue to update the narrative throughout the report to include dynamic data and the ability to leverage openAI to assist in summarizing findings, impact, and overall security posture analysis.
+
 ![image](https://github.com/user-attachments/assets/a0efe35a-42af-40e5-8797-58a9f0b0fa9f)
 
 
